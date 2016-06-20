@@ -7,7 +7,7 @@ By ETPH 20160618, release under GPL license.
 Parts of code are copyrighted by STMicroelectronics licensed under MCD-ST Liberty SW License Agreement V2
 http://www.st.com/software_license_agreement_liberty_v2
 
-This library must be used with STM8S_StdPeriph_Lib package which is provided freely by STMicroelectronics
+This library must be used with STM8S_StdPeriph_Lib package which is provided free of charge by STMicroelectronics
 
 Brief guide: 
 
